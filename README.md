@@ -1,2 +1,2 @@
-# Photo-E-Commerce
-.NET midterm project
+# Photo_Shop(E-Commerce Site)
+ASP.NET project
